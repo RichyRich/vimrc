@@ -1,12 +1,14 @@
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "   .vimrc 
 "       Richard King ( https://github.com/RichyRich )
-"       
+"   
+"   Reasonably minimal, subjectively sensible Vim configuration.
+"
 " Optional plugins/bundles
 "   Pathogen - https://github.com/tpope/vim-pathogen
 "   NERDTree - https://github.com/scrooloose/nerdtree
 "
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "Use pathogen for plugin management if installed...
 try
